@@ -6,11 +6,7 @@ Our color blindness simulator is a  that accurately replicates how people with c
 1. Install Python: Make sure you have Python installed on your system. You can download and install Python from here.
 2. Install Required Packages: Run the following commands in your terminal to install the required Python packages:
 
-<div style="text-align:center">
-    <a href="[link_to_image](https://github.com/ErnestLontoc/IMAGPRO-Video-Color-Blind-Simulator/assets/104815584/5a3a3ad5-2073-44d3-8983-4fc7eb4cf5d3)">
-        <img src="image_path" alt="Image Description">
-    </a>
-</div>
+![image](https://github.com/ErnestLontoc/IMAGPRO-Video-Color-Blind-Simulator/assets/104815584/bd85955c-1c2f-4ab2-bb35-31d8beeed326)
 
 
 ## Usage
